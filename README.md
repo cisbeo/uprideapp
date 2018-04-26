@@ -27,3 +27,4 @@ Running the client
 ------------------
 The client can be built by executing "npm install" inside the `client` directory.
 The client can then be run by executing "npm start" inside the same directory and following the on-screen prompts to access it from your mobile device.
+# uprideapp
